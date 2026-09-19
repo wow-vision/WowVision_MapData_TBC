@@ -1,0 +1,5 @@
+package-as: WowVision_MapData_TBC
+
+ignore:
+  - .github
+  - .gitignore

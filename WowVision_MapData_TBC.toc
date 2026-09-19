@@ -1,0 +1,8 @@
+## Interface: 20506
+## Title: TBC Map Data
+## Version: @project-version@
+## Notes: WowVision map data (tbc)
+## Dependencies: WowVision
+
+main.lua
+modules.xml
