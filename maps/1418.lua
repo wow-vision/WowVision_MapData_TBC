@@ -995,4 +995,9 @@ dataset:addWaypoints({
 	{id="e6112c36-2b30-4bb8-be17-2d9ecf719a80",x=-6091.7002,y=-3192.3,mapId=1418,cId=0,n="auto Badlands;299",t=1,},
 	{id="c1ea9448-4c18-4bd3-9cac-5ea4dbb3da83",x=-6081.3003,y=-3046.9001,mapId=1418,cId=0,n="auto Badlands;300",t=1,links={["fe5228a2-c0a7-4f09-8da0-166e8c5a4787"]=true,},},
 	{id="ee1e429a-2ecf-4079-addd-be649e376864",x=-6673.9746,y=-2176.1792,mapId=1418,cId=0,n="s;h;Mailbox;Badlands",t=1,links={["f842acef-5239-4a1f-8728-e5362798b898"]=true,},},
+	{id="5aa037ee-1056-518f-932b-9a4e20b37e8d",x=-6716.6946,y=-2612.2009,mapId=1418,cId=0,n="auto Badlands;301",t=1,links={["455e2941-2d6b-4368-962c-286c6330bfe6"]=true,},},
+	{id="6d12bafd-6f72-5693-916f-4e77cc6a9773",x=-6733.0446,y=-2735.6073,mapId=1418,cId=0,n="auto Badlands;302",t=1,links={["5aa037ee-1056-518f-932b-9a4e20b37e8d"]=true,},},
+	{id="7e15eec7-50fe-520a-b1d8-cd2e7e0324c8",x=-6825.1356,y=-2810.9544,mapId=1418,cId=0,n="auto Badlands;303",t=1,links={["6d12bafd-6f72-5693-916f-4e77cc6a9773"]=true,},},
+	{id="9e41578f-e1e0-53d2-967a-005980bbb980",x=-6951.5511,y=-2795.885,mapId=1418,cId=0,n="auto Badlands;304",t=1,links={["7e15eec7-50fe-520a-b1d8-cd2e7e0324c8"]=true,},},
+	{id="673dd2e8-9280-5092-826f-f62f18329f44",x=-6798.3455,y=-2656.9116,mapId=1418,cId=0,n="auto Badlands;305",t=1,links={["9e41578f-e1e0-53d2-967a-005980bbb980"]=true,},},
 })

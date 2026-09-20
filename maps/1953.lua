@@ -3638,7 +3638,7 @@ dataset:addWaypoints({
 	{id="1e6b0fe0-4d4f-4ad9-ac34-43b4895a49b6",x=4551.8999,y=2467.2,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;303",t=1,links={["56d99d2d-0f3e-446b-b37c-55dd1ae5dca1"]=true,["b9af6f03-5e23-4632-9a06-d07f6448ac67"]=true,},},
 	{id="b9af6f03-5e23-4632-9a06-d07f6448ac67",x=4559.3003,y=2496.4001,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;304",t=1,links={["e926a5f2-4457-414f-bd3c-71db34c1dd0c"]=true,},},
 	{id="21311895-461d-41ea-bd1c-2add743a9ba9",x=4570.2002,y=2528.8,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;305",t=1,links={["b9af6f03-5e23-4632-9a06-d07f6448ac67"]=true,["34304b7f-8137-4f66-9972-af090918abaf"]=true,},},
-	{id="34304b7f-8137-4f66-9972-af090918abaf",x=4575.1001,y=2545.4001,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;306",t=1,links={["bb2e8493-539d-40b3-a682-943b58cb87da"]=true,},},
+	{id="34304b7f-8137-4f66-9972-af090918abaf",x=4575.1001,y=2545.4001,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;306",t=1,links={["bb2e8493-539d-40b3-a682-943b58cb87da"]=true,["b7ca2fc9-c73f-451b-a859-707ea176d3a3"]=true,},},
 	{id="b7ca2fc9-c73f-451b-a859-707ea176d3a3",x=4574.5,y=2567.1001,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;307",t=1,links={["bb2e8493-539d-40b3-a682-943b58cb87da"]=true,},},
 	{id="a8647a56-7c90-48ae-9f51-c373aefa19bd",x=4579.3999,y=2595.6001,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;308",t=1,links={["b7ca2fc9-c73f-451b-a859-707ea176d3a3"]=true,},},
 	{id="0335aae9-b7ee-4eaa-9df0-949acf0a280f",x=4589.5,y=2619.5,mapId=1953,cId=530,n="auto Ruins of Farahlon;Netherstorm;309",t=1,links={["a8647a56-7c90-48ae-9f51-c373aefa19bd"]=true,["cbb64866-91e0-4f89-9fd6-d497ac6aae4b"]=true,["05f32adc-6adb-4945-b555-0c18cc6962dd"]=true,},},
@@ -4408,4 +4408,6 @@ dataset:addWaypoints({
 	{id="f14ebb07-178f-4bda-8ab1-561abb6e7be2",x=2792.5,y=4143.8003,mapId=1953,cId=530,n="auto Manaforge B'naar;Netherstorm;1092",t=1,},
 	{id="bb24e6bd-8c98-433e-ad62-973c0bc11b7b",x=2777.3,y=4180.8999,mapId=1953,cId=530,n="auto Manaforge B'naar;Netherstorm;1093",t=1,links={["e9d62fad-071e-4797-9f77-03621be8b988"]=true,["ccfe2f7f-172e-4ba9-a022-5dad592c7e48"]=true,},},
 	{id="312483dd-930b-4089-a37e-b4bec1a8c592",x=2773.9001,y=4093.7,mapId=1953,cId=530,n="auto Manaforge B'naar;Netherstorm;1094",t=1,links={["72b52396-2fb8-48d3-81c6-01fff6cc3632"]=true,["7693aa4f-485f-4ed0-936e-5a63f6792e98"]=true,["fd875c67-4358-4bde-b679-bbdc54fef487"]=true,},},
+	{id="7a8b424d-3307-5083-8c5e-8d6e8ab28f6c",x=4024.1001,y=3990.4001,mapId=1953,cId=530,n="auto Inside;Manaforge Ara;Netherstorm;962",t=1,links={["b8913f64-14d3-4ff4-a336-9bdea814ba42"]=true,},},
+	{id="6f24e5da-e0d9-5ab0-8598-d15da89f03f4",x=3850.2,y=1463.8,mapId=1953,cId=530,n="Veraku Summon Point;Celestial Ridge;Netherstorm;Veraku Beschwörpunkt;Celestial Ridge;Nethersturm;1046",t=1,links={["d9c788f7-ef07-4508-b219-0f47c704f27f"]=true,},},
 })

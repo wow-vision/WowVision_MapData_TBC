@@ -1438,7 +1438,7 @@ dataset:addWaypoints({
 	{id="e47d7f06-9bee-434c-aa00-33f3ffc1f8f7",x=-596.6,y=-147.5,mapId=1424,cId=0,n="auto Hillsbrad Foothills;136",t=1,},
 	{id="d6841510-5f72-4977-aa74-1f7886976675",x=-824.3,y=-506,mapId=1424,cId=0,n="auto Hillsbrad Foothills;137",t=1,},
 	{id="0f2c0daa-1885-46f5-b8ba-5993c448b7fd",x=-129.5,y=-1639.6,mapId=1424,cId=0,n="auto Hillsbrad Foothills;138",t=1,links={["53408ce6-9ede-4913-84cf-0e86e1ba8c20"]=true,["22d8d637-aae7-4f05-a6dd-e4e539c1e0ab"]=true,},},
-	{id="1e96c067-178f-490d-8fd2-0277aa05aa00",x=-1318,y=-1213.3,mapId=1424,cId=0,n="auto Hillsbrad Foothills;139",t=1,links={["fa2152dd-310e-4bc1-b80b-df34f6262c8a"]=true,},},
+	{id="1e96c067-178f-490d-8fd2-0277aa05aa00",x=-1318,y=-1213.3,mapId=1424,cId=0,n="auto Hillsbrad Foothills;139",t=1,links={["fa2152dd-310e-4bc1-b80b-df34f6262c8a"]=true,["e3bf4f0d-acee-498b-b61e-b8088842065a"]=true,},},
 	{id="64a8e865-06b6-4e17-beb1-a7e77b6ba978",x=-833.2,y=143.9,mapId=1424,cId=0,n="auto Hillsbrad Foothills;140",t=1,links={["8c5df27f-e3a4-4d91-88f7-e817d3d117dc"]=true,},},
 	{id="3148594c-fa40-445f-b876-cf9e6efaa077",x=-810.9,y=178.9,mapId=1424,cId=0,n="auto Hillsbrad Foothills;141",t=1,links={["9e374ee7-9b72-46c7-93e6-46e6d922d54a"]=true,["3166f1ea-0b90-4c24-9a14-4819e689b16e"]=true,["80cac7a3-4b9a-49ec-ab7f-89f8ee5c314c"]=true,},},
 	{id="94a23b4c-5fc6-4590-87d8-f1b8af206125",x=-1322,y=-1271.8,mapId=1424,cId=0,n="auto Hillsbrad Foothills;142",t=1,links={["a6e68299-9cda-49be-bbc1-bcb038281e72"]=true,},},

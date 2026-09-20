@@ -1076,4 +1076,5 @@ dataset:addWaypoints({
 	{id="f7ef25a8-5c84-4651-a76c-4b2e0813232e",x=-11040.9004,y=-3463.9001,mapId=1419,cId=0,n="auto Blasted Lands;344",t=1,},
 	{id="c36f2565-a217-4848-8b7b-62f99a8ea1b4",x=-11665.7002,y=-3100.5,mapId=1419,cId=0,n="auto Blasted Lands;345",t=1,links={["f5643825-5fce-4c89-8ac8-83ce4f10c188"]=true,},},
 	{id="3a348498-2221-453d-853e-17471b901b94",x=-11671.5,y=-3052.9001,mapId=1419,cId=0,n="auto Blasted Lands;346",t=1,links={["f5643825-5fce-4c89-8ac8-83ce4f10c188"]=true,},},
+	{id="5169aa7f-e44b-5a9b-9903-993b9c2c15fc",x=-10803.2,y=-3739.01,mapId=1419,cId=0,n="s;Eastern Kingdoms;Swamp of Sorrows;Stagalbog;Stagalbog Cave",t=1,links={["2d7032e4-521d-5cc6-b890-d3d1a983d928"]=true,},},
 })

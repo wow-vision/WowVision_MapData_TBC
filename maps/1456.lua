@@ -926,4 +926,5 @@ dataset:addWaypoints({
 	{id="862f78e9-2eba-4d54-bc0d-7ebd5a0699f1",x=-1263.6,y=212.9,mapId=1456,cId=1,n="auto Thunder Bluff;515",t=1,},
 	{id="431edebb-013b-418c-8ccd-1fd7830ca150",x=-1028.5,y=310.5,mapId=1456,cId=1,n="auto Thunder Bluff;520",t=1,links={["f6616c8d-d33a-4064-8362-714d03b48cf3"]=true,},},
 	{id="f6616c8d-d33a-4064-8362-714d03b48cf3",x=-1043.4,y=293.8,mapId=1456,cId=1,n="auto Thunder Bluff;521",t=1,},
+	{id="b3875ecd-dff5-5eb4-acb2-f367cb3a9c19",x=-1005,y=259.2,mapId=1456,cId=1,n="auto Thunder Bluff;482",t=1,links={["c4254e9a-c8b7-4b46-9367-a469f6b4bb24"]=true,["977eeba8-effd-4b1c-b870-1b6780712c3e"]=true,},},
 })
