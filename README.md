@@ -18,3 +18,5 @@ Map waypoint data for [WowVision](https://github.com/wow-vision/WowVision) on Th
 The map files are generated with the wow-vision map tooling. Edit them there rather than by hand.
 
 Provenance note: the old-world route waypoints restored in version 1.1.0 (about 2,100 waypoints and 2,500 links, Eastern and Western Plaguelands and Swamp of Sorrows most of all) were produced outside that tooling, by taking the Era waypoint set with the union of the Era and WotLK link sets. Until the generator reproduces that union, a regeneration from it would drop them again.
+
+Two guards stop that happening by accident. The ids of those waypoints are listed in `tools/protected-ids.txt`, and `tools/check-protected.lua` fails when any is missing; it runs on every push and pull request and before every release, so a regeneration that lost them cannot be published. The wvmaps exporter also refuses to overwrite an addon folder when its output would drop waypoint ids that the folder already holds, unless told to with `--allow-drop`.
