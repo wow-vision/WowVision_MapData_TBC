@@ -1109,4 +1109,7 @@ dataset:addWaypoints({
 	{id="78737e55-072d-4be8-a337-aecd257c366c",x=-8764.7002,y=654.9,mapId=1453,cId=0,n="auto Trade District;Stormwind City;460",t=1,links={["942560ff-5da4-4604-a422-e9215220165c"]=true,},},
 	{id="021be5ae-d34e-4839-8a29-4ec4f8c11c79",x=-8754.7998,y=657.5,mapId=1453,cId=0,n="auto Inside;Trade District;Stormwind City;461",t=1,links={["78737e55-072d-4be8-a337-aecd257c366c"]=true,},},
 	{id="e9a8ca48-6f57-4fb7-a81e-a396b8246bbb",x=-9007.7998,y=872.3,mapId=1453,cId=0,n="Inside;portal to blasted lands;wizard's sanctum;Stormwind;462",t=1,},
+	{id="615bc2af-e902-598b-9b08-2b2b9c96bb14",x=-8935.4004,y=795.5,mapId=1453,cId=0,n="auto Inside;Mage Quarter;Stormwind;464",t=1,links={["3332f6d2-ffec-48b9-9a52-f44b5f104565"]=true,},},
+	{id="5a5ee4ad-da76-5314-aaa7-73305dda52e9",x=-8933.2998,y=789.3,mapId=1453,cId=0,n="auto Inside;Mage Quarter;Stormwind;465",t=1,links={["3d1a0b6b-3484-5e54-9fb3-5f6ec8075670"]=true,["615bc2af-e902-598b-9b08-2b2b9c96bb14"]=true,},},
+	{id="3d1a0b6b-3484-5e54-9fb3-5f6ec8075670",x=-8936.7002,y=786.4,mapId=1453,cId=0,n="auto Inside;Mage Quarter;Stormwind;466",t=1,links={["d3429e6c-6fa9-41ef-aa88-850100d0f079"]=true,},},
 })

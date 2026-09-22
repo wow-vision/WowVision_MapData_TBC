@@ -3098,4 +3098,7 @@ dataset:addWaypoints({
 	{id="b55cd90a-1db9-4b0f-9dac-038197ceea1f",x=1264.9,y=-4192.7002,mapId=1411,cId=1,n="auto Durotar;926",t=1,},
 	{id="aa428cb4-bba0-4a63-9c37-b7afcb19e127",x=1180.1,y=-4188,mapId=1411,cId=1,n="auto Durotar;927",t=1,links={["f7fac957-12f9-4b28-87ea-6b6d6f9e8dba"]=true,},},
 	{id="3d2991e7-c64a-40c1-a15a-00fdc1c24d6f",x=1175.4,y=-4175.3999,mapId=1411,cId=1,n="auto Durotar;928",t=1,links={["aa428cb4-bba0-4a63-9c37-b7afcb19e127"]=true,},},
+	{id="d9a66914-abdf-522d-bd80-dfd11ce91ead",x=1154.3029,y=-4179.435,mapId=1411,cId=1,n="auto Durotar;951",t=1,links={["3d2991e7-c64a-40c1-a15a-00fdc1c24d6f"]=true,},},
+	{id="1b57b9c4-8c09-5ce1-b69c-710e6c03302d",x=1150.0402,y=-4174.1693,mapId=1411,cId=1,n="auto Durotar;952",t=1,links={["d9a66914-abdf-522d-bd80-dfd11ce91ead"]=true,},},
+	{id="0095fd08-103d-55e9-863b-bde88b764d00",x=1150.7924,y=-4165.3931,mapId=1411,cId=1,n="auto Durotar;953",t=1,links={["9ed13464-c865-4cb8-998c-9afa560f9407"]=true,["1b57b9c4-8c09-5ce1-b69c-710e6c03302d"]=true,},},
 })
