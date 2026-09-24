@@ -81,9 +81,9 @@ for i = 3, #arg do
         local res, why = Router.route(all, from.x, from.y, to.id, { entryId = from.id })
         local straight = math.sqrt((from.x - to.x) ^ 2 + (from.y - to.y) ^ 2)
         if res then
-            print(string.format("TO %s: ok, %d hops, %d yards, straight %d", to.n, #res.waypoints, res.distance, straight))
+            print(string.format("TO %s: ok, %d hops, %.0f yards, straight %.0f", to.n, #res.waypoints, res.distance, straight))
         else
-            print(string.format("TO %s: FAILED (%s)%s, straight %d", to.n, tostring(why),
+            print(string.format("TO %s: FAILED (%s)%s, straight %.0f", to.n, tostring(why),
                 to.links and "" or " - destination has no links", straight))
             failed = failed + 1
         end
