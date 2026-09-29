@@ -5,4 +5,7 @@
 ## Dependencies: WowVision
 
 main.lua
+locale\deDE.lua
+locale\frFR.lua
+names.lua
 modules.xml
