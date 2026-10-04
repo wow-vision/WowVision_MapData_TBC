@@ -1,4 +1,4 @@
-## Interface: 20506
+## Interface: 20506, 16001
 ## Title: TBC Map Data
 ## Version: @project-version@
 ## Notes: WowVision map data (tbc)
